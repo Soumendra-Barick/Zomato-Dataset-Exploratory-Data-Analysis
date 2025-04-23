@@ -1,4 +1,4 @@
-# 🌟 **Zomato Dataset: Exploratory Data Analysis (EDA)** 🌟
+# 🌟 **Zomato Dataset: Exploratory Data Analysis (EDA)** 
 
 Welcome to the **Zomato EDA Project**! 🚀 This project focuses on performing **Exploratory Data Analysis (EDA)** on the **Zomato restaurant dataset**, providing insights into restaurant trends, ratings, costs, and locations across various regions.
 
