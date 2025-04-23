@@ -20,5 +20,5 @@ Ready to dive in? Here's how you can get started with this project:
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/zomato-eda.git
+git clone https://github.com/Soumendra-Barick/zomato-eda.git
 cd zomato-eda
